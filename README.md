@@ -1,6 +1,7 @@
 # MyDay
 
 ## Program:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -73,6 +74,6 @@
     </table>
 </body>
 </html>
-
+```
 ## Output:
 ![Screenshot 2024-07-04 113753](https://github.com/vijay21500269/myday/assets/94381788/9414b23e-1f5f-4c1f-8de4-8cc3d1509e94)
